@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bilgisayar Portları</string>
+    <string name="not_found">Kayıt Bulunamadı</string>
+    <string name="rate_app">Uygulamayı Oyla</string>
+    <string name="share">Uygulamayı Paylaş</string>
+</resources>

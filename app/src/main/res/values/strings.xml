@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Computer Ports</string>
+
+    <string name="dbVersion" translatable="false">1</string>
+    <string name="dbName" translatable="false">ports</string>
+    <string name="not_found">No any record</string>
+    <string name="rate_app">Rate This App</string>
+    <string name="share">Share This App</string>
+
+</resources>
